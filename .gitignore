@@ -1,0 +1,7 @@
+echo "# NayMyoHtet-Official-Channel-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/naymyohtet1993/NayMyoHtet-Official-Channel-.git
+git push -u origin main
